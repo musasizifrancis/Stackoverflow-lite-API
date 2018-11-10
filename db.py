@@ -10,6 +10,7 @@ class DatabaseConnection:
         #     self.db = 'test_db'
         # else:
         #     self.db = 'stackoverflow'
+        #nice code
 
         try:
             self.connection = psycopg2.connect(
