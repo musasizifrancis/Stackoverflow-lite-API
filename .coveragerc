@@ -3,6 +3,8 @@ omit =
     */python?.?/*
     */site-packages/nose/*
     */__pycache__/*
+    */__init__/*
+    */api/models/*
     *.pyc
     */venv/*
     */home/travis/virtualenv/*
